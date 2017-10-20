@@ -26,7 +26,7 @@ The caret (^) character indicates the beginning of a line.  Text inside square b
 
 So `/^[A-Z]/` would match any text which starts with a letter between A and Z (capitalized), and ^[A-Za-z] would match any text which starts with an alphabetic character regardless of case.  
 
-The curly braces ({ }) allow you to specify how many times a sequence appears.  So `/^[A-Z]{2}/` would match 2 letters where each chacter is between A & Z.  
+The curly braces ({ }) allow you to specify how many times a sequence appears.  So `/^[A-Z]{2}/` would match 2 letters where each character is between A & Z.  
 
 `\d` indicates a digit, so `/\d{3}/` matches any 3 digit number.  
 
