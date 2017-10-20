@@ -13,7 +13,7 @@ respond with a new name.
 
 ## Regular Expressions
 
-So how does the test spec guarantee that all robot names match the given patter?  The answer is **Regular Expressions**.  
+So how does the test spec guarantee that all robot names match the given pattern?  The answer is **Regular Expressions**.  
 
 Looking at the `robot_name_spec.rb` file you will notice this line:
 
